@@ -8,7 +8,7 @@
  - One to Other
 
 ## Simple Test
-![SimpleTask.PNG](Docs/SimpleTask.PNG)
+![SimpleTask.png](Docs/SimpleTask.png)
 
 This scene is a simple test, where once one item is collected the task is complete.
 
