@@ -129,10 +129,7 @@ if the task is unlocked and trigger is equal to the task's trigger.
 If desired this function could be much more complex
 by accepting many different triggers with different effects.
 
- ## States
- 
- ## TEST
- 
+## States
 ![States.PNG](Docs/States.PNG)
 
 This is a dictionary of the possible states the task can take. The ones in use for the example scenes are Locked, Unlocked, Completed and Failed.
