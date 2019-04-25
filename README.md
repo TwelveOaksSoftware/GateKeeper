@@ -109,8 +109,7 @@ If a larger size is required then the Size property can be altered.
 This defines the size of the whole task (head + body).
 
 ## OnInputStatusChanged
-
-![onInput.JPG](Docs/onInput.JPG
+![onInput.JPG](Docs/onInput.JPG)
 
 This is an action that is called when the state of an input task changes.
 In the generic task type this is the function that
