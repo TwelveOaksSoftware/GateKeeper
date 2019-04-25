@@ -129,7 +129,7 @@ if the task is unlocked and trigger is equal to the task's trigger.
 If desired this function could be much more complex
 by accepting many different triggers with different effects.
 
- ## States
+ # States
  
 ![States.PNG](Docs/States.PNG)
 
