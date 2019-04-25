@@ -128,11 +128,15 @@ If desired this function could be much more complex
 by accepting many different triggers with different effects.
 
  ## States
+![States.PNG](Docs/States.PNG)
 
-This is a dictionary of the possible states the task can take.
+This is a dictionary of the possible states the task can take. The ones in use for the example scenes are Locked, Unlocked, Completed and Failed.
 The dictionary keys are names of the states, as they are keys they must be unique.
+
+
 The dictionary values are the colours associated with the states.
 These do not have to be unique they are simply to distinguish between different states in the editor.
+
 
 [DontDestroyOnLoad]: https://docs.unity3d.com/ScriptReference/Object.DontDestroyOnLoad.html
 [GUI]: https://docs.unity3d.com/ScriptReference/GUI.html
