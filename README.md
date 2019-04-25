@@ -98,6 +98,7 @@ Other task types can be created by deriving from the abstract Task class.
 The following members need to be overridden:
 
 ## DrawBodyContent
+![drawBodyContent.JPG](Docs/drawBodyContent.JPG)
 
 This is called to draw the body of the task in the editor window.
 It is best to use [GUI][GUI] functions
@@ -108,6 +109,7 @@ If a larger size is required then the Size property can be altered.
 This defines the size of the whole task (head + body).
 
 ## OnInputStatusChanged
+![onInput.JPG](Docs/onInput.JPG
 
 This is an action that is called when the state of an input task changes.
 In the generic task type this is the function that
@@ -115,6 +117,8 @@ checks to see if all of the input tasks are now in a completed state.
 Access to the input tasks themselves is given through an Inputs property.
 
 ## OnTrigger
+
+![onTrigger.JPG](Docs/onTrigger.JPG) 
 
 An action that is called when a trigger is sent to the task.
 It takes the trigger string as an argument.
