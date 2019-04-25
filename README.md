@@ -136,6 +136,7 @@ by accepting many different triggers with different effects.
 This is a dictionary of the possible states the task can take. The ones in use for the example scenes are Locked, Unlocked, Completed and Failed.
 The dictionary keys are names of the states, as they are keys they must be unique.
 
+![Color.PNG](Docs/Color.PNG)
 
 The dictionary values are the colours associated with the states.
 These do not have to be unique they are simply to distinguish between different states in the editor.
