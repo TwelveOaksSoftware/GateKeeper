@@ -2,7 +2,9 @@
 
 A Unity plugin for creating a map of connected tasks.
 Triggers are sent to the map during play mode that change the state of tasks.
-Connections between tasks can be used to create dependencies. Figure 1 shows a demonstration of this.
+Connections between tasks can be used to create dependencies. Figure 1 shows a demonstration of this. 
+
+In this guide we will be using the Unity 2D Roguelike tutorial to demonstrate what GateKeeper can do. Download to the Unity tutorial found here https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial.
 
 ![example.gif](Docs/example.gif)
 Fig 1.
