@@ -145,28 +145,28 @@ These do not have to be unique they are simply to distinguish between different 
 ## Simple Test
 ![SimpleTask.PNG](Docs/SimpleTask.PNG)
 
-This scene is a simple test, where once one item is collected the task is complete.
+This scene is a simple test, where once an objective is met the task is complete. This scene shows how destroying a wall completes the task.
 
 ![SimpleScene.gif](Docs/SimpleScene.gif)
 
 ## One to Two
 ![OneToTwo.PNG](Docs/OneToTwo.PNG)
 
-This scene allows one task to unlock two other tasks.  There is no limit to the number of tasks that can be unlocked by one task.
+This scene allows one task to unlock two other tasks.  There is no limit to the number of tasks that can be unlocked by one task. This scene shows how destroying a wall opens up the next two tasks to become unlocked, allowing them to be completed once the requirements are met. 
 
 ![OneToTwoScene.gif](Docs/OneToTwoScene.gif)
 
 ## Two to One
 ![TwoToOne.PNG](Docs/TwoToOne.PNG)
 
-This scene shows how two tasks need to be completed before a third task can be unlocked.  More than two tasks can be set before another is unlocked.
+This scene shows how two tasks need to be completed before a third task can be unlocked.  More than two tasks can be set before another is unlocked. In this scene the character must destroy a wall and eat some food before unlocking the drink soda task. If the player was to drink soda before completing the previous two tasks it wouldn't be tracked. 
 
 ![TwoToOneScene.gif](Docs/TwoToOneScene.gif)
 
 ## One or Other
 ![OneOrOther.PNG](Docs/OneOrOther.PNG)
 
-This scene shows how a single task can be unlocked in multiple ways.
+This scene shows how a single task can be unlocked in multiple ways. This scene shows how the character unlocks the eat food task by completing the destroy wall task. Then after those two tasks are complete he in essence can go backwards and complete the drink soda task. 
 
 ![OneOrOther.gif](Docs/OneOrOther.gif)
 
